@@ -1,7 +1,11 @@
 # README
 
-App was a result of book ROR 5 by michael hartl.
+Applied learnings from book ROR 5 by michael hartl.
 You can have a look https://basic-twitter-on-rails.herokuapp.com/
+
+`Sign In credentials`
+email: github@user.com
+password: 12345678
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
